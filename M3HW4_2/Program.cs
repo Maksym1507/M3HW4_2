@@ -4,7 +4,8 @@
     {
         private static void Main()
         {
-            Console.WriteLine("Hello, World!");
+            var starter = new Starter();
+            starter.Run();
         }
     }
 }
